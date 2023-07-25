@@ -1,0 +1,10 @@
+* cl-gltf
+
+glTF 2.0 parser for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/shirakumo/cl-gltf.git   |
+| commit  | a05ae79  |
+| systems | cl-gltf |
+|---------+-------------------------------------------|
+
