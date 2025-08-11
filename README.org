@@ -4,6 +4,6 @@ glTF 2.0 parser for Common Lisp
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/shirakumo/cl-gltf.git |
-| commit  | 630b9b7                                      |
+| commit  | bae3216                                      |
 | systems | cl-gltf                                      |
 |---------+----------------------------------------------|
